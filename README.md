@@ -1,4 +1,4 @@
 HardClay
 ========
 
-Development and testing for Ireland and Associates
+Development and testing for Stonehenge and Sutton Consulting
